@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/gurupras/cpuprof/post_processing/filters"
+	"github.com/gurupras/go_cpuprof/post_processing/filters"
 	"github.com/gurupras/gocommons"
 )
 

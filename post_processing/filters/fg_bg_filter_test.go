@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gurupras/cpuprof"
+	"github.com/gurupras/go_cpuprof"
 	"github.com/gurupras/gocommons"
 	"github.com/stretchr/testify/assert"
 )

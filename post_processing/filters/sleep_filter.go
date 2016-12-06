@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/gurupras/cpuprof"
+	"github.com/gurupras/go_cpuprof"
 )
 
 type SuspendState int

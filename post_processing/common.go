@@ -9,7 +9,7 @@ import (
 
 	"github.com/fatih/set"
 	"github.com/google/shlex"
-	"github.com/gurupras/cpuprof"
+	"github.com/gurupras/go_cpuprof"
 	"github.com/gurupras/gocommons"
 )
 

@@ -1,6 +1,6 @@
 package filters
 
-import "github.com/gurupras/cpuprof"
+import "github.com/gurupras/go_cpuprof"
 
 // Filter to provide callback every 24 hours
 // Can be tweaked to provide callback after arbitrary durations of time

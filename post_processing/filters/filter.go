@@ -1,6 +1,6 @@
 package filters
 
-import "github.com/gurupras/cpuprof"
+import "github.com/gurupras/go_cpuprof"
 
 type LineFilter func(line string) bool
 type LoglineFilter func(logline *cpuprof.Logline) bool

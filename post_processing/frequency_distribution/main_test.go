@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/google/shlex"
-	"github.com/gurupras/cpuprof/post_processing"
+	"github.com/gurupras/go_cpuprof/post_processing"
 )
 
 func TestFrequencyDistribution(t *testing.T) {

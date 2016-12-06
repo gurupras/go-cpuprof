@@ -12,7 +12,7 @@ import (
 
 	"github.com/Sirupsen/logrus"
 	"github.com/alecthomas/kingpin"
-	"github.com/gurupras/cpuprof"
+	"github.com/gurupras/go_cpuprof"
 	"github.com/gurupras/gocommons"
 	"github.com/gurupras/gocommons/gsync"
 )

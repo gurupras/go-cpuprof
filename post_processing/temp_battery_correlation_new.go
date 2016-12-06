@@ -14,8 +14,8 @@ import (
 	"sync/atomic"
 
 	"github.com/alecthomas/kingpin"
-	"github.com/gurupras/cpuprof"
-	"github.com/gurupras/cpuprof/post_processing/filters"
+	"github.com/gurupras/go_cpuprof"
+	"github.com/gurupras/go_cpuprof/post_processing/filters"
 	"github.com/gurupras/gocommons"
 	"github.com/gurupras/gocommons/gsync"
 )

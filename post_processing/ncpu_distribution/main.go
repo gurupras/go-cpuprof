@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/gurupras/cpuprof/post_processing"
+	"github.com/gurupras/go_cpuprof/post_processing"
 )
 
 func main() {

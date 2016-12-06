@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/gurupras/cpuprof"
+	"github.com/gurupras/go_cpuprof"
 )
 
 type PeriodicCtxSwitchInfoTracker struct {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gurupras/cpuprof"
+	"github.com/gurupras/go_cpuprof"
 	"github.com/stretchr/testify/assert"
 )
 
